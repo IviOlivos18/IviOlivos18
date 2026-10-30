@@ -73,7 +73,7 @@ I like building things that people can actually use. Most of my time goes into *
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/IviOlivos18/ecoseeds">
-          <img src="./assets/ecoseeds-wordmark.svg" width="220" height="120" alt="Logotipo tipográfico de la aplicación EcoSeeds" />
+          <img src="./assets/ecoveler-paper-plane-logo.svg" width="172" height="120" alt="Logotipo original del avioncito de Ecoveler para EcoSeeds" />
         </a>
       </p>
       <h3><a href="https://github.com/IviOlivos18/ecoseeds">EcoSeeds</a></h3>
