@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/IviOlivos18">
-    <img src="https://images.unsplash.com/photo-1544896916-6c9b00a2ca30?auto=format&amp;fit=crop&amp;w=1400&amp;h=375&amp;q=85" width="100%" alt="Minimal purple twilight horizon with dark mountain silhouettes" />
+    <img src="./assets/neon-orbit-header.svg" width="100%" alt="Portada futurista violeta con un anillo neón luminoso, inspirada en la imagen compartida" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Orizaba%2C_Veracruz-24153D?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=D8B4FE" alt="Orizaba, Veracruz" />
 </p>
 
----
+<p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### 👨‍💻 About me
 
@@ -38,7 +38,7 @@ I like building things that people can actually use. Most of my time goes into *
   <img src="https://img.shields.io/badge/EXPLORE-AI_%26_Automation-24153D?style=flat-square&amp;labelColor=6D28D9&amp;color=24153D" alt="Explore AI and automation" />
 </p>
 
----
+<p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### 🛠️ Languages & technologies
 
@@ -64,7 +64,7 @@ I like building things that people can actually use. Most of my time goes into *
   <img src="https://img.shields.io/badge/Jupyter-24153D?style=flat-square&amp;logo=jupyter&amp;logoColor=B99AF7" alt="Jupyter" />
 </p>
 
----
+<p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### ✨ Featured projects
 
@@ -93,7 +93,7 @@ I like building things that people can actually use. Most of my time goes into *
   </tr>
 </table>
 
----
+<p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### 📊 GitHub activity
 
@@ -108,7 +108,7 @@ I like building things that people can actually use. Most of my time goes into *
 
 <p align="center"><sub>Daily contribution calendar in violet · dynamically generated from public GitHub activity.</sub></p>
 
----
+<p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### 🤝 Connect with me
 
@@ -121,7 +121,7 @@ I'm interested in software development opportunities, building useful products a
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1637191624218-a757a2456908?auto=format&amp;fit=crop&amp;w=1400&amp;h=210&amp;q=82" width="100%" alt="Minimal workspace with a purple-lit laptop" />
+  <img src="./assets/neon-footer.svg" width="100%" alt="Cierre minimalista de perfil con degradado violeta neón" />
 </p>
 
-<p align="center"><sub>Photo credits: <a href="https://unsplash.com/photos/silhouette-of-mountains-IKw_--J6k3U">mountain horizon</a> · <a href="https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-inbpQAIlIkU">workspace</a> (Unsplash).</sub></p>
+

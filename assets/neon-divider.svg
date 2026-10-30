@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Violet neon gradient divider">
+<defs><linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#14091e"/><stop offset=".18" stop-color="#612ab8"/><stop offset=".5" stop-color="#e0c2ff"/><stop offset=".82" stop-color="#7a32ce"/><stop offset="1" stop-color="#14091e"/></linearGradient><linearGradient id="halo"><stop stop-color="#150920"/><stop offset=".5" stop-color="#8d37e3"/><stop offset="1" stop-color="#150920"/></linearGradient></defs>
+<rect x="8" y="7" width="1184" height="14" rx="7" fill="url(#halo)" opacity=".22"/>
+<rect x="8" y="13" width="1184" height="2" rx="1" fill="url(#line)"/>
+<circle cx="600" cy="14" r="5" fill="#ead1ff"/>
+<circle cx="600" cy="14" r="10" fill="none" stroke="#9b50ed" opacity=".34"/>
+</svg>
