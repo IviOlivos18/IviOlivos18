@@ -52,21 +52,25 @@
       <sub>Proyecto en desarrollo · código no público</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 GetMind</h3>
-      <p>Proyecto tecnológico con el que participé en <b>InnovaTec</b> y avancé a la etapa regional.</p>
-      <p><code>Innovación</code> <code>Trabajo en equipo</code> <code>Producto digital</code></p>
-      <sub>Proyecto de equipo · código no público</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ PassGuard Family</h3>
-      <p>Propuesta de seguridad digital pensada para personas mayores y familias: credenciales protegidas, alertas claras y educación contra fraudes.</p>
-      <p><code>Ciberseguridad</code> <code>UX accesible</code> <code>Concepto</code></p>
-      <sub>Propuesta académica en desarrollo</sub>
-    </td>
-  </tr>
-</table>
+  </table>
+
+### 📊 GitHub, en números
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IviOlivos18&theme=tokyonight" alt="Gráfica de contribuciones de GitHub de Ivi Olivos" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IviOlivos18&theme=tokyonight" alt="Estadísticas de GitHub: contribuciones, repositorios y estrellas" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IviOlivos18&theme=tokyonight" alt="Gráfica de lenguajes de programación en mis repositorios" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IviOlivos18&theme=tokyonight&utcOffset=-6" alt="Distribución de mis contribuciones por hora" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=IviOlivos18&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA" alt="Racha de contribuciones de GitHub" width="47%" />
+</p>
+
+<p align="center"><sub>Gráficas dinámicas basadas en la actividad pública de GitHub. Los porcentajes de lenguajes reflejan el código de los repositorios, no el nivel de dominio.</sub></p>
 
 ### 🎯 En qué estoy enfocado
 
