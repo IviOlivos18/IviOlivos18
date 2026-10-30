@@ -1,69 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
-  <title id="title">Ivi Olivos — Software Developer</title>
-  <desc id="desc">Portada futurista en tonos violeta y turquesa con presentación profesional y una ventana de código.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080D1C"/><stop offset="58%" stop-color="#11142D"/><stop offset="100%" stop-color="#0A1830"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B69AFF"/><stop offset="55%" stop-color="#A4BFFF"/><stop offset="100%" stop-color="#5FECDF"/></linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151E36" stop-opacity=".97"/><stop offset="100%" stop-color="#10182B" stop-opacity=".93"/></linearGradient>
-    <radialGradient id="glowA"><stop stop-color="#7C3AED" stop-opacity=".34"/><stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
-    <radialGradient id="glowB"><stop stop-color="#22D3EE" stop-opacity=".22"/><stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#95A4D1" stroke-opacity=".075" stroke-width="1" fill="none"/></pattern>
-    <clipPath id="cardclip"><rect x="790" y="50" width="432" height="278" rx="19"/></clipPath>
-  </defs>
-  <style>
-    .glow { animation: breathe 5s ease-in-out infinite; transform-origin: center; }
-    .star { animation: twinkle 3.7s ease-in-out infinite alternate; }
-    .orbit { animation: drift 6s ease-in-out infinite alternate; }
-    .cursor { animation: blink 1.05s steps(1) infinite; }
-    @keyframes breathe { 0%,100% { opacity:.72; } 50% { opacity:1; } }
-    @keyframes twinkle { from { opacity:.18; } to { opacity:.86; } }
-    @keyframes drift { from { transform:translateY(0); } to { transform:translateY(-8px); } }
-    @keyframes blink { 50% { opacity:0; } }
-  </style>
-  <rect width="1280" height="380" rx="25" fill="url(#bg)"/>
-  <rect width="1280" height="380" rx="25" fill="url(#grid)"/>
-  <ellipse class="glow" cx="275" cy="-35" rx="380" ry="285" fill="url(#glowA)"/>
-  <ellipse class="glow" cx="1090" cy="335" rx="405" ry="255" fill="url(#glowB)"/>
-  <path class="orbit" d="M-25 326C177 278 279 379 494 328S905 290 1300 359" fill="none" stroke="url(#accent)" stroke-width="1.3" stroke-opacity=".24"/>
-  <path d="M0 343C281 258 418 382 659 318S1031 313 1280 274" fill="none" stroke="#7C89D9" stroke-width="1" stroke-opacity=".18"/>
-  <circle class="star" cx="698" cy="70" r="2.3" fill="#8CF4E5"/>
-  <circle class="star" cx="742" cy="292" r="2" fill="#CFB6FF" style="animation-delay:1.2s"/>
-  <circle class="star" cx="1240" cy="34" r="2" fill="#CFB6FF" style="animation-delay:1.7s"/>
-  <circle class="star" cx="71" cy="326" r="1.8" fill="#9DDFFF" style="animation-delay:2.2s"/>
-  <circle cx="64" cy="65" r="5" fill="#55E3D0"/><circle cx="64" cy="65" r="11" fill="none" stroke="#55E3D0" stroke-opacity=".28"/>
-  <text x="85" y="71" fill="#9FDFC9" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.9">HELLO, WORLD!  /  I'M</text>
-  <text x="60" y="162" fill="#F9FBFF" font-family="Verdana, Arial, sans-serif" font-size="75" font-weight="800" letter-spacing="-3">Ivi Olivos</text>
-  <rect x="63" y="185" width="170" height="4" rx="2" fill="url(#accent)"/>
-  <text x="63" y="235" fill="url(#accent)" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700">Software Developer</text>
-  <text x="63" y="268" fill="#D2DBEF" font-family="Verdana, Arial, sans-serif" font-size="17">Web development  ·  AI  ·  Product design</text>
-  <text x="63" y="307" fill="#98A8C5" font-family="Verdana, Arial, sans-serif" font-size="15">Ingeniería Informática  •  Orizaba, Veracruz, MX</text>
-  <rect x="61" y="329" width="196" height="29" rx="14.5" fill="#17382F" fill-opacity=".87" stroke="#57CFAF" stroke-opacity=".28"/>
-  <circle cx="79" cy="343.5" r="4" fill="#66E6BC"/>
-  <text x="90" y="349" fill="#BAF9E0" font-family="Verdana, Arial, sans-serif" font-size="12" font-weight="700">Open to opportunities</text>
-  <rect x="790" y="50" width="432" height="278" rx="19" fill="url(#card)" stroke="#667CA8" stroke-opacity=".44" stroke-width="1.3"/>
-  <g clip-path="url(#cardclip)">
-    <rect x="790" y="50" width="432" height="46" fill="#1B263F"/>
-    <circle cx="812" cy="74" r="5.5" fill="#FF7D91"/><circle cx="832" cy="74" r="5.5" fill="#F4C35A"/><circle cx="852" cy="74" r="5.5" fill="#56CDA8"/>
-    <text x="889" y="80" fill="#BAC7E3" font-family="Consolas, 'Courier New', monospace" font-size="14">~/ivi/hello.ts</text>
-    <text x="815" y="128" fill="#8293B2" font-family="Consolas, 'Courier New', monospace" font-size="16">01</text>
-    <text x="853" y="128" fill="#CBB6FF" font-family="Consolas, 'Courier New', monospace" font-size="16">const</text>
-    <text x="908" y="128" fill="#F4F7FF" font-family="Consolas, 'Courier New', monospace" font-size="16">developer = {</text>
-    <text x="815" y="162" fill="#8293B2" font-family="Consolas, 'Courier New', monospace" font-size="16">02</text>
-    <text x="884" y="162" fill="#9CE8E0" font-family="Consolas, 'Courier New', monospace" font-size="16">name:</text>
-    <text x="949" y="162" fill="#F6CE87" font-family="Consolas, 'Courier New', monospace" font-size="16">'Ivi Olivos',</text>
-    <text x="815" y="196" fill="#8293B2" font-family="Consolas, 'Courier New', monospace" font-size="16">03</text>
-    <text x="884" y="196" fill="#9CE8E0" font-family="Consolas, 'Courier New', monospace" font-size="16">focus:</text>
-    <text x="949" y="196" fill="#F6CE87" font-family="Consolas, 'Courier New', monospace" font-size="16">'meaningful tech',</text>
-    <text x="815" y="230" fill="#8293B2" font-family="Consolas, 'Courier New', monospace" font-size="16">04</text>
-    <text x="884" y="230" fill="#9CE8E0" font-family="Consolas, 'Courier New', monospace" font-size="16">build:</text>
-    <text x="949" y="230" fill="#F6CE87" font-family="Consolas, 'Courier New', monospace" font-size="16">'with purpose'</text>
-    <text x="815" y="264" fill="#8293B2" font-family="Consolas, 'Courier New', monospace" font-size="16">05</text>
-    <text x="853" y="264" fill="#F4F7FF" font-family="Consolas, 'Courier New', monospace" font-size="16">};</text>
-    <rect class="cursor" x="878" y="251" width="9" height="18" rx="1" fill="#69E6D7"/>
-    <rect x="791" y="307" width="431" height="21" fill="#12283A"/>
-    <circle cx="811" cy="318" r="3.4" fill="#54E0A2"/>
-    <text x="824" y="321" fill="#9DC6B9" font-family="Consolas, 'Courier New', monospace" font-size="11">READY</text>
-    <text x="1140" y="321" fill="#869DB8" font-family="Consolas, 'Courier New', monospace" font-size="11">UTF-8</text>
-  </g>
-  <rect x="0.5" y="0.5" width="1279" height="379" rx="24.5" fill="none" stroke="#B9C6F5" stroke-opacity=".13"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Ivi Olivos — Software Developer</title><desc id="desc">Dark navy developer portfolio header with turquoise highlights and a stylized code editor.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07131C"/><stop offset=".58" stop-color="#0A1B27"/><stop offset="1" stop-color="#0B2830"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#36D7CE"/><stop offset="1" stop-color="#85F5E7"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#14B8AD" stop-opacity=".22"/><stop offset="1" stop-color="#14B8AD" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#C4FCF3" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="1200" height="370" rx="18" fill="url(#bg)"/><rect width="1200" height="370" rx="18" fill="url(#grid)"/><ellipse cx="972" cy="207" rx="400" ry="280" fill="url(#glow)"/>
+<rect x="30" y="29" width="160" height="31" rx="15.5" fill="#0D3639" stroke="#1C9E96" stroke-opacity=".75"/>
+<circle cx="47" cy="44.5" r="4" fill="#40E6CA"/><text x="60" y="49" fill="#8AE7D9" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">AVAILABLE TO BUILD</text>
+<text x="32" y="133" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="72" letter-spacing="-2.4" fill="#F4FEFF">Ivi Olivos</text>
+<rect x="35" y="155" width="294" height="4" rx="2" fill="url(#cyan)"/>
+<text x="33" y="206" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#64E7D7">Software Developer</text>
+<text x="34" y="242" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#C0D4D7">Web apps · Interfaces · Automation</text>
+<text x="34" y="278" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#86A8B1">Informatics Engineering  /  Orizaba, Mexico</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2"><rect x="34" y="302" width="142" height="30" rx="7" fill="#12353B" stroke="#2D7775"/><text x="49" y="322" fill="#B2F3EA">FULL STACK</text><rect x="188" y="302" width="128" height="30" rx="7" fill="#12353B" stroke="#2D7775"/><text x="204" y="322" fill="#B2F3EA">UI / UX</text><rect x="328" y="302" width="154" height="30" rx="7" fill="#12353B" stroke="#2D7775"/><text x="344" y="322" fill="#B2F3EA">AUTOMATION</text></g>
+<g transform="translate(675 44)">
+<rect width="488" height="283" rx="16" fill="#0A1822" stroke="#34747A" stroke-width="1.5"/>
+<path d="M16 0H472Q488 0 488 16V40H0V16Q0 0 16 0" fill="#18313C"/>
+<circle cx="24" cy="21" r="5" fill="#438B87"/><circle cx="42" cy="21" r="5" fill="#438B87"/><circle cx="60" cy="21" r="5" fill="#62D6CB"/>
+<text x="89" y="25" font-family="Consolas,monospace" font-size="13" fill="#A9D5D4">~/workspace/ivi.ts</text>
+<g font-family="Consolas,'Courier New',monospace" font-size="16">
+<text x="27" y="81" fill="#557683">01</text><text x="72" y="81" fill="#58E2D4">const</text><text x="132" y="81" fill="#E5F4F5"> developer = {</text>
+<text x="27" y="116" fill="#557683">02</text><text x="99" y="116" fill="#93EBD9">name:</text><text x="172" y="116" fill="#FAE3A2">'Ivi Olivos',</text>
+<text x="27" y="151" fill="#557683">03</text><text x="99" y="151" fill="#93EBD9">focus:</text><text x="172" y="151" fill="#FAE3A2">'real-world projects',</text>
+<text x="27" y="186" fill="#557683">04</text><text x="99" y="186" fill="#93EBD9">stack:</text><text x="172" y="186" fill="#FAE3A2">'React + Node',</text>
+<text x="27" y="221" fill="#557683">05</text><text x="72" y="221" fill="#E5F4F5">};</text>
+</g>
+<rect x="0" y="255" width="488" height="28" rx="0" fill="#112B33"/><path d="M0 255H488" stroke="#23646A"/>
+<circle cx="22" cy="268" r="4" fill="#64E7D7"/><text x="34" y="273" font-family="Consolas,monospace" font-size="12" fill="#A9E4E1">main  •  ready to ship</text><text x="446" y="273" font-family="Consolas,monospace" font-size="12" fill="#789FA6">UTF-8</text>
+</g>
+<path d="M1 351H1199" stroke="#37BDB6" stroke-opacity=".6"/><rect x="1" y="1" width="1198" height="368" rx="17" stroke="#51E0D3" stroke-opacity=".21" fill="none"/>
 </svg>
