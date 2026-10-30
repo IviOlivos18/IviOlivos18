@@ -71,16 +71,20 @@ I like building things that people can actually use. Most of my time goes into *
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/IviOlivos18/ecoseeds">
-        <img src="https://images.unsplash.com/photo-1599067897079-aedd464866d6?auto=format&amp;fit=crop&amp;w=700&amp;h=300&amp;q=80" width="100%" alt="Minimalist green plant in a white pot, thematic photograph for EcoSeeds" />
-      </a>
+      <p align="center">
+        <a href="https://github.com/IviOlivos18/ecoseeds">
+          <img src="./assets/ecoseeds-wordmark.svg" width="220" height="120" alt="Logotipo tipográfico de la aplicación EcoSeeds" />
+        </a>
+      </p>
       <h3><a href="https://github.com/IviOlivos18/ecoseeds">EcoSeeds</a></h3>
       <p>Web platform for supporting environmental initiatives through donations, with an interactive interface and chatbot.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>CSS Modules</code></p>
       <a href="https://github.com/IviOlivos18/ecoseeds">Explore repository</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1573376670774-4427757f7963?auto=format&amp;fit=crop&amp;w=700&amp;h=300&amp;q=80" width="100%" alt="Minimal white shipping box, thematic photograph for Mi Inventario BW" />
+      <p align="center">
+        <img src="./assets/mi-inventario-bw-icon.svg" width="120" height="120" alt="Ícono original de Mi Inventario BW: caja blanca sobre degradado azul" />
+      </p>
       <h3>Mi Inventario BW</h3>
       <p>Inventory software for managing product records, stock movements and workflow automation.</p>
       <p><code>Inventory</code> <code>Automation</code> <code>Web</code></p>
@@ -88,8 +92,6 @@ I like building things that people can actually use. Most of my time goes into *
     </td>
   </tr>
 </table>
-
-<p align="center"><sub>Project images are thematic photographs, not screenshots of the applications.</sub></p>
 
 ---
 
@@ -122,4 +124,4 @@ I'm interested in software development opportunities, building useful products a
   <img src="https://images.unsplash.com/photo-1637191624218-a757a2456908?auto=format&amp;fit=crop&amp;w=1400&amp;h=210&amp;q=82" width="100%" alt="Minimal workspace with a purple-lit laptop" />
 </p>
 
-<p align="center"><sub>Minimal photo credits: <a href="https://unsplash.com/photos/silhouette-of-mountains-IKw_--J6k3U">mountain horizon</a> · <a href="https://unsplash.com/s/photos/simple-plant">plant</a> · <a href="https://unsplash.com/photos/white-box-on-white-table-GopRYASfsOc">white box</a> · <a href="https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-inbpQAIlIkU">workspace</a> (Unsplash).</sub></p>
+<p align="center"><sub>Photo credits: <a href="https://unsplash.com/photos/silhouette-of-mountains-IKw_--J6k3U">mountain horizon</a> · <a href="https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-inbpQAIlIkU">workspace</a> (Unsplash).</sub></p>
