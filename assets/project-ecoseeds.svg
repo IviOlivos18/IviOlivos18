@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="285" viewBox="0 0 610 285" role="img" aria-label="EcoSeeds, conceptual environmental web platform illustration">
+<defs><linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#09232B"/><stop offset="1" stop-color="#103A3A"/></linearGradient><linearGradient id="a" x2="1"><stop stop-color="#42DEB9"/><stop offset="1" stop-color="#A0EBC1"/></linearGradient></defs>
+<rect width="610" height="285" rx="15" fill="url(#b)"/><rect x="1" y="1" width="608" height="283" rx="14" fill="none" stroke="#378178"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="31" y="48" fill="#EDFFF9" font-size="29" font-weight="700">EcoSeeds</text>
+<text x="32" y="73" fill="#91C9C2" font-size="12" font-weight="700" letter-spacing="1.7">ENVIRONMENTAL WEB PLATFORM</text>
+<text x="30" y="226" fill="#E5FFF5" font-size="24" font-weight="700">Technology for</text>
+<text x="30" y="254" fill="#75E0C5" font-size="24" font-weight="700">environmental impact.</text></g>
+<g transform="translate(330 36)">
+<rect width="238" height="206" rx="13" fill="#102A33" stroke="#41968B"/>
+<rect x="0" y="0" width="238" height="33" rx="13" fill="#1D4549"/><rect x="0" y="24" width="238" height="9" fill="#1D4549"/>
+<circle cx="16" cy="17" r="4" fill="#7ABBB5"/><circle cx="30" cy="17" r="4" fill="#7ABBB5"/><circle cx="44" cy="17" r="4" fill="#61DCCA"/>
+<text x="18" y="58" fill="#D5F9F0" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">Support a cause</text>
+<rect x="18" y="75" width="201" height="8" rx="4" fill="#30525B"/><rect x="18" y="75" width="139" height="8" rx="4" fill="url(#a)"/>
+<rect x="18" y="92" width="157" height="7" rx="3.5" fill="#365D63"/>
+<rect x="18" y="110" width="201" height="74" rx="8" fill="#17434A"/>
+<circle cx="63" cy="148" r="25" fill="#205A53"/>
+<path d="M63 164V130M63 145c-14-1-18-8-19-17 12 0 19 7 19 17zM63 137c4-13 11-17 22-16-3 11-11 17-22 16z" fill="#8FE5B4" stroke="#8FE5B4" stroke-width="2"/>
+<rect x="104" y="135" width="86" height="7" rx="3" fill="#8CD8CC"/><rect x="104" y="151" width="68" height="7" rx="3" fill="#4A8788"/>
+</g>
+<path d="M30 100H267" stroke="#39756D" stroke-width="1"/><g fill="#65D8C5" opacity=".6"><circle cx="43" cy="132" r="5"/><circle cx="66" cy="132" r="5"/><circle cx="89" cy="132" r="5"/></g>
+<text x="570" y="269" fill="#82B4AC" font-family="Arial,Helvetica,sans-serif" text-anchor="end" font-size="10" letter-spacing="1">CONCEPT VISUAL</text>
+</svg>
