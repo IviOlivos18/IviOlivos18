@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img" aria-labelledby="title desc">
+  <title id="title">EcoSeeds</title>
+  <desc id="desc">Marca tipográfica EcoSeeds, basada en el encabezado de la aplicación.</desc>
+  <rect x="12" y="18" width="336" height="114" rx="22" fill="#ffffff"/>
+  <text x="180" y="93" text-anchor="middle" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" font-weight="600" font-size="54" fill="#111827">EcoSeeds</text>
+</svg>
