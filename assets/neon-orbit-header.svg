@@ -33,7 +33,7 @@
 <path d="M77 117V333" stroke="url(#divider)" stroke-width="3"/>
 <path d="M77 117V192" stroke="#ead1ff" stroke-width="2"/>
 <circle cx="95" cy="89" r="2.6" fill="#d6adff"/><circle cx="95" cy="105" r="2.6" fill="#d6adff"/><circle cx="95" cy="121" r="2.6" fill="#d6adff"/>
-<text x="106" y="83" fill="#d2b4f7" font-family="monospace" font-size="20" letter-spacing="2">IVI OLIVOS  /  PROFILE</text>
+<text x="106" y="83" fill="#d2b4f7" font-family="monospace" font-size="20" letter-spacing="2">BUILD  /  CREATE  /  EXPLORE</text>
 <text x="105" y="220" fill="#faf8ff" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="91" letter-spacing="-2">SOFTWARE</text>
 <text x="105" y="317" fill="url(#letters)" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="88" letter-spacing="-1">DEVELOPER</text>
 <path d="M105 367h54" stroke="#ba70ff" stroke-width="3"/>

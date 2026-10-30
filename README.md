@@ -38,6 +38,19 @@ I like building things that people can actually use. Most of my time goes into *
   <img src="https://img.shields.io/badge/EXPLORE-AI_%26_Automation-24153D?style=flat-square&amp;labelColor=6D28D9&amp;color=24153D" alt="Explore AI and automation" />
 </p>
 
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <h3>Code. Build. Recharge.</h3>
+      <p>This GitHub is where ideas become working projects: web interfaces, useful tools, and automation experiments. One commit at a time.</p>
+      <p><sub>Currently: building, learning, and occasionally dreaming up the next feature.</sub></p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/sleepy-neon-shark-transparent.svg" width="260" alt="Sleeping pixel-art purple neon shark, a little break between commits" />
+    </td>
+  </tr>
+</table>
+
 <p align="center"><img src="./assets/neon-divider.svg" width="100%" alt="" /></p>
 
 ### 🛠️ Languages & technologies
@@ -118,10 +131,6 @@ I'm interested in software development opportunities, building useful products a
   <a href="mailto:olivosivi@gmail.com"><img src="https://img.shields.io/badge/Gmail-olivosivi%40gmail.com-9333EA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact via Gmail" /></a>
   &nbsp;
   <a href="https://github.com/IviOlivos18"><img src="https://img.shields.io/badge/GitHub-IviOlivos18-24153D?style=for-the-badge&amp;logo=github&amp;logoColor=D8B4FE" alt="GitHub profile" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/sleepy-neon-shark.svg" alt="Tiburoncito pixel art morado con resplandor neón, durmiendo con dos Z" width="260" />
 </p>
 
 <p align="center">
