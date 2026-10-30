@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175" role="img" aria-labelledby="title desc">
+<title id="title">448 Total Contributions</title>
+<desc id="desc">Snapshot with 448 total contributions, on a dark background with violet and lavender accents.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#110E20"/><stop offset="1" stop-color="#241339"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#D8B4FE"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="173" rx="18" fill="url(#bg)" stroke="#7450AC" stroke-width="1.5"/>
+<path d="M26 29V145" stroke="url(#purple)" stroke-width="5" stroke-linecap="round"/>
+<text x="51" y="108" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700" letter-spacing="-2">448</text>
+<text x="53" y="143" fill="#C4B5FD" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.6">IVIOLIVOS18 / GITHUB</text>
+<path d="M360 34V142" stroke="#6C4A8F" stroke-opacity=".65"/>
+<text x="393" y="81" fill="#F9F5FF" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Total Contributions</text>
+<text x="395" y="113" fill="#C5B5D6" font-family="Arial,Helvetica,sans-serif" font-size="15">Snapshot of GitHub activity</text>
+<path d="M395 138H850" stroke="#55416F" stroke-width="2"/>
+<path d="M395 138H681" stroke="url(#purple)" stroke-width="3"/>
+<g fill="#A855F7" opacity=".65"><rect x="819" y="26" width="9" height="9" rx="2"/><rect x="833" y="26" width="9" height="9" rx="2"/><rect x="847" y="26" width="9" height="9" rx="2"/><rect x="819" y="40" width="9" height="9" rx="2"/><rect x="833" y="40" width="9" height="9" rx="2"/><rect x="847" y="40" width="9" height="9" rx="2"/></g>
+</svg>
