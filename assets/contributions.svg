@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="186" viewBox="0 0 700 186" role="img" aria-labelledby="title description">
+<title id="title">448 total contributions on GitHub</title>
+<desc id="description">A single stat card showing 448 total contributions for IviOlivos18.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161A2F"/><stop offset="1" stop-color="#0F192B"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="698" height="184" rx="17" fill="url(#bg)" stroke="#3C4669" stroke-width="2"/>
+<rect x="28" y="27" width="4" height="132" rx="2" fill="url(#line)"/>
+<text x="60" y="105" fill="#F4F5FF" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="86" letter-spacing="-3">448</text>
+<text x="62" y="138" fill="#98A3BD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8">GITHUB  /  IVIOLIVOS18</text>
+<text x="369" y="81" fill="#E5E9F4" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="25">Total Contributions</text>
+<text x="369" y="111" fill="#A7B2CC" font-family="Arial, Helvetica, sans-serif" font-size="14">Contribution count snapshot</text>
+<path d="M369 131 H642" stroke="#3E4B65"/>
+<path d="M369 152 H546" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+</svg>
