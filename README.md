@@ -121,6 +121,10 @@ I'm interested in software development opportunities, building useful products a
 </p>
 
 <p align="center">
+  <img src="./assets/sleepy-neon-shark.svg" alt="Tiburoncito pixel art morado con resplandor neón, durmiendo con dos Z" width="260" />
+</p>
+
+<p align="center">
   <img src="./assets/neon-footer.svg" width="100%" alt="Cierre minimalista de perfil con degradado violeta neón" />
 </p>
 
