@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="250" viewBox="0 0 660 250" role="img" aria-label="Mi Inventario BW application logo inside a purple rounded card"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#100b20"/><stop offset="1" stop-color="#241037"/></linearGradient><linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8b4fe"/><stop offset=".5" stop-color="#9333ea"/><stop offset="1" stop-color="#6d28d9"/></linearGradient></defs><rect x="2" y="2" width="656" height="246" rx="28" fill="url(#bg)" stroke="url(#border)" stroke-width="3"/><path d="M35 210H625" stroke="#8b5cf6" stroke-opacity=".3"/><g transform="translate(248 35) scale(2.55)">
+  <defs>
+    <linearGradient id="bw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00aec7"/>
+      <stop offset="1" stop-color="#056275"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bw)"/>
+  <g transform="translate(12 12) scale(1.667)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 9.5 12 5l9 4.5-9 4.5-9-4.5Z"/>
+    <path d="M3 9.5V17l9 4.5 9-4.5V9.5"/>
+    <path d="M12 14v7.5"/>
+  </g>
+</g></svg>
