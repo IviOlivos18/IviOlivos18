@@ -1,13 +1,13 @@
-<!-- Ivi De Jesus Olivos Cuevas / GitHub profile README -->
+<!-- GitHub profile README -->
+
+<p align="center">
+  <img src="./assets/terminal-greeting.svg" alt="Animated welcome: Welcome to Ivi Olivos' GitHub" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/IviOlivos18">
     <img src="./assets/neon-orbit-header.svg" width="100%" alt="Portada futurista violeta con un anillo neón luminoso, inspirada en la imagen compartida" />
   </a>
-</p>
-
-<p align="center">
-  <img src="./assets/terminal-greeting.svg" alt="Terminal typing animation: Hi (purple) Ivi De Jesus Olivos Cuevas (white)" width="100%" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ I like building things that people can actually use. Most of my time goes into *
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/IviOlivos18/ecoseeds">
-          <img src="./assets/ecoveler-paper-plane-logo.svg" width="172" height="120" alt="Logotipo original del avioncito de Ecoveler para EcoSeeds" />
+          <img src="./assets/project-ecoseeds-frame.svg" width="100%" alt="EcoSeeds logo with a rounded violet border" />
         </a>
       </p>
       <h3><a href="https://github.com/IviOlivos18/ecoseeds">EcoSeeds</a></h3>
@@ -96,7 +96,7 @@ I like building things that people can actually use. Most of my time goes into *
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="./assets/mi-inventario-bw-icon.svg" width="120" height="120" alt="Ícono original de Mi Inventario BW: caja blanca sobre degradado azul" />
+        <img src="./assets/project-bw-frame.svg" width="100%" alt="Mi Inventario BW logo with a rounded violet border" />
       </p>
       <h3>Mi Inventario BW</h3>
       <p>Inventory software for managing product records, stock movements and workflow automation.</p>
